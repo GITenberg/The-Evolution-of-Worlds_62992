@@ -1,0 +1,26 @@
+_repo: The-Evolution-of-Worlds_62992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, Percival
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '626'
+    url: http://www.gutenberg.org/2009/agents/626
+    wikipedia: https://en.wikipedia.org/wiki/Percival_Lowell
+description: ''
+gutenberg_issued: '2020-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62992'
+  lccn: 09031685
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Cosmogony'
+- GITenberg
+title: The Evolution of Worlds
+url: http://www.gutenberg.org/ebooks/62992
